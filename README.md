@@ -4,7 +4,7 @@
 I love Linux, programming and everything related to it
 
 - 🔭 I am currently working on a private repository (PHP)
-- 🌱 I am currently learning C ++, Rust and PHP
+- 🌱 I am currently learning C++, Rust and PHP
 
 🌌At the moment my computer is:
 - OS: Dual Boot(Arch and Win10)
