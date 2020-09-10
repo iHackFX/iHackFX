@@ -12,7 +12,7 @@ I love Linux, programming and everything related to it
 - RAM: 16 GB
 - GPU: R7 360 2G
 
-📱My Discord: iHackFX # 5570
+📱My Discord: iHackFX#5570
 
 You are welcome!
 
