@@ -1,4 +1,4 @@
-### Hi there 👋
+![](banner.gif)
 
 ## My name is Alexander. I am Russian. 18 years old.
 I love Linux, programming and everything related to it
