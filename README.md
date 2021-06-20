@@ -1,9 +1,11 @@
 ![](https://github.com/iHackFX/iHackFX/raw/master/banner.gif)
 
 ## My name is Alexander. I am Russian. 18 years old.
-I love Linux, programming and everything related to it
+I love Linux, programming, hackathons and everything related to it
 
 - 🔭 I am currently working on a private repository (PHP)
+- :octocat: I am currently working on a private repository (NodeJS,React,PHP)
+- ✒️ I am currently working on a private repository (NodeJS,React,PHP)
 - 🌱 I am currently learning C++, Rust and PHP
 
 🌌At the moment my computer is:
