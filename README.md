@@ -5,7 +5,7 @@ I love Linux, programming, hackathons and everything related to it
 
 - 🔭 I am currently working on a private repository (PHP)
 - :octocat: I am currently working on a private repository (NodeJS,React,PHP)
-- ✒️ I am currently working on a private repository (NodeJS,React,PHP)
+- ✒️ I am currently working on a private repository (Ionic)
 - 🌱 I am currently learning C++, Rust and PHP
 
 🌌At the moment my computer is:
