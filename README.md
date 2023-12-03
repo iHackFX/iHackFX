@@ -1,6 +1,6 @@
 ![](https://github.com/iHackFX/iHackFX/raw/master/banner.gif)
 
-## My name is Alexander. I am Russian. 18 years old.
+## My name is Alexander. I am Russian. 21 years old.
 I love Linux, programming, hackathons and everything related to it
 
 - 🔭 I am currently working on a private repository (PHP)
@@ -12,9 +12,9 @@ I love Linux, programming, hackathons and everything related to it
 - OS: Dual Boot(Arch and Win10)
 - Processor: Intel Xeon E5 2620
 - RAM: 16 GB
-- GPU: R7 360 2G
+- GPU: XFX RX580 8GB
 
-📱My Discord: iHackFX#5570
+📱My Discord: iHackFX
 
 You are welcome!
 
